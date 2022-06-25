@@ -1,6 +1,7 @@
 # BombMan
 
 
+# Implementation Details
 
 # Example
 
