@@ -6,7 +6,7 @@
 # Implementation Details
 下のコマンドを実行することで、ボンバーマンのミニゲームをコンパイル・実行する。
 ```
-javac MVC-v2.1.java
+javac -encoding UTF-8 MVC-v2.1.java
 java StartGame
 ```
 
