@@ -12,7 +12,7 @@ java StartGame
 
 
 # Example
-下はいくつかゲームの実行画面を示す。\\
+下はいくつかゲームの実行画面を示す。<br>
 ゲームの最初：
 <img src = 'fig/start.png'>
 
